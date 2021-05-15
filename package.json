@@ -1,0 +1,25 @@
+{
+  "name": "miru",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "shinobisbot",
+  "engines": {
+    "node": "14.15.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "opusscript": "0.0.7",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^4.5.0"
+  }
+}
